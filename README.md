@@ -1,6 +1,7 @@
 # Developing with Elixir/OTP - Course Practice
 
-This repository contains my practice and notes from the [Developing with Elixir/OTP](https://pragmaticstudio.com/elixir) course by The Pragmatic Studio.  
+This repository contains my practice and notes from the [Developing with Elixir/OTP](https://pragmaticstudio.com/elixir) course by The Pragmatic Studio.
+
 The goal is to document my learning progress and experiment with Elixir and OTP concepts.
 
 ## Disclaimer
